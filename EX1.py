@@ -29,4 +29,5 @@ def get_veleur(p,x):
 liste = [eval(i) for i in polynome]
 
 get_veleur(liste, 4)
+#COMMENTAIRE TEST GITHUB
     
