@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 EX1 TP2 PYTHON OBJET
-
+@author: Danial
 """
 
 def afficher(p):
